@@ -4,4 +4,4 @@
 
 运行界面：
 
-![avatar](C:\Users\Administrator\Desktop\俄罗斯方块运行界面.jpg)
+![avatar](static/俄罗斯方块运行界面.jpg)
